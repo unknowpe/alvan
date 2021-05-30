@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alvan/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/alvan/static/js/main.16806e9a.chunk.js",
+    "main.js.map": "/alvan/static/js/main.16806e9a.chunk.js.map",
+    "runtime-main.js": "/alvan/static/js/runtime-main.b25b5277.js",
+    "runtime-main.js.map": "/alvan/static/js/runtime-main.b25b5277.js.map",
+    "static/js/2.0e77c401.chunk.js": "/alvan/static/js/2.0e77c401.chunk.js",
+    "static/js/2.0e77c401.chunk.js.map": "/alvan/static/js/2.0e77c401.chunk.js.map",
+    "static/js/3.5bc6c583.chunk.js": "/alvan/static/js/3.5bc6c583.chunk.js",
+    "static/js/3.5bc6c583.chunk.js.map": "/alvan/static/js/3.5bc6c583.chunk.js.map",
+    "index.html": "/alvan/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/alvan/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0e77c401.chunk.js.LICENSE.txt": "/alvan/static/js/2.0e77c401.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alvan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25b5277.js",
+    "static/js/2.0e77c401.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.16806e9a.chunk.js"
+  ]
+}
