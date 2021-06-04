@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/alvan/static/css/main.61f2b9a5.chunk.css",
-    "main.js": "/alvan/static/js/main.e753f366.chunk.js",
-    "main.js.map": "/alvan/static/js/main.e753f366.chunk.js.map",
+    "main.css": "/alvan/static/css/main.bbbb0feb.chunk.css",
+    "main.js": "/alvan/static/js/main.c782a6ef.chunk.js",
+    "main.js.map": "/alvan/static/js/main.c782a6ef.chunk.js.map",
     "runtime-main.js": "/alvan/static/js/runtime-main.59733ee2.js",
     "runtime-main.js.map": "/alvan/static/js/runtime-main.59733ee2.js.map",
-    "static/js/2.99391a88.chunk.js": "/alvan/static/js/2.99391a88.chunk.js",
-    "static/js/2.99391a88.chunk.js.map": "/alvan/static/js/2.99391a88.chunk.js.map",
+    "static/js/2.d6a96627.chunk.js": "/alvan/static/js/2.d6a96627.chunk.js",
+    "static/js/2.d6a96627.chunk.js.map": "/alvan/static/js/2.d6a96627.chunk.js.map",
     "index.html": "/alvan/index.html",
-    "static/css/main.61f2b9a5.chunk.css.map": "/alvan/static/css/main.61f2b9a5.chunk.css.map",
-    "static/js/2.99391a88.chunk.js.LICENSE.txt": "/alvan/static/js/2.99391a88.chunk.js.LICENSE.txt"
+    "static/css/main.bbbb0feb.chunk.css.map": "/alvan/static/css/main.bbbb0feb.chunk.css.map",
+    "static/js/2.d6a96627.chunk.js.LICENSE.txt": "/alvan/static/js/2.d6a96627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59733ee2.js",
-    "static/js/2.99391a88.chunk.js",
-    "static/css/main.61f2b9a5.chunk.css",
-    "static/js/main.e753f366.chunk.js"
+    "static/js/2.d6a96627.chunk.js",
+    "static/css/main.bbbb0feb.chunk.css",
+    "static/js/main.c782a6ef.chunk.js"
   ]
 }
